@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<remote  name="Mohit"
+		fetch="https://github.com/YadavMohit19" />
+	
+ 	<project path="device/xiaomi/sakura" name="device_xiaomi_sakura" remote="Mohit" revision="corvus"/> 
+	<project path="kernel/xiaomi/msm8953" name="kernel_xiaomi_msm8953-1" remote="Mohit" revision="a11/master"/>
+        <project path="vendor/xiaomi" name="vendor_xiaomi" remote="Mohit" revision="lineage-18.1"/>
+	
+</manifest>
