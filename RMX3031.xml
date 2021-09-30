@@ -4,5 +4,5 @@
 	<remote  name="Mohit"
 		fetch="https://github.com/YadavMohit19" />
 	
- 	<project path="device/realme/RMX3031" name="device_realme_RMX3031b-PBRP" remote="Mohit" revision="PBRP"/> 	
+ 	<project path="device/realme/RMX3031" name="device_realme_RMX3031-PBRP" remote="Mohit" revision="PBRP"/> 	
 </manifest>
