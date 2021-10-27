@@ -4,7 +4,7 @@
 	<remote  name="Mohit"
 		fetch="https://github.com/ManshuTyagi" />
 	
- 	<project path="device/realm/RMX3031" name="vendor_realme_RMX3031" remote="Mohit" revision="eleven"/> 
-        <project path="vendor/realme/RMX3031" name="vendor_realme_RMX3031" remote="Mohit" revision="eleven"/>
+ 	<project path="device/realme/RMX3031" name="device_realme_RMX3031-PBRP" remote="Mohit" revision="dt"/> 
+        <project path="vendor/realme/RMX3031" name="device_realme_RMX3031-PBRP" remote="Mohit" revision="vt"/>
 	
 </manifest>
