@@ -7,5 +7,5 @@
  	<project path="device/realme/RMX3031" name="device_realme_RMX3031-PBRP" remote="Mohit" revision="dt"/> 
         <project path="vendor/realme/RMX3031" name="device_realme_RMX3031-PBRP" remote="Mohit" revision="vt"/>
 		
- 	<project path="package/apps/Realmeparts" name="YadavMohit19/packages_apps_RealmeParts" remote="Mohit" revision="main"/>
+ 	<project path="package/apps/Realmeparts" name="packages_apps_RealmeParts" remote="Mohit" revision="main"/>
 </manifest>
