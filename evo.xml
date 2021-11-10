@@ -5,7 +5,7 @@
 		fetch="https://github.com/YadavMohit19" />
 	
  	<project path="device/realme/RMX3031" name="device_realme_RMX3031" remote="Mohit" revision="11"/> 
-        <project path="vendor/realme/RMX3031" name="device_realme_RMX3031" remote="Mohit" revision="11"/>
+        <project path="vendor/realme/RMX3031" name="vendor_realme_RMX3031" remote="Mohit" revision="11"/>
 		
  	<project path="packages/apps/RealmeParts" name="packages_apps_RealmeParts" remote="Mohit" revision="main"/>
 </manifest>
